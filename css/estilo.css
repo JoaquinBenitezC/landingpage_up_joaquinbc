@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+
+*{
+    margin-left: 0;
+	margin-right: 0;
+    box-sizing: border-box;
+}
+
+body {
+	background: url(../img/back.png) no-repeat ;
+    background-size: 100% 1080px;
+    
+}
+
+body p{
+    
+}
+  
+main {
+    width: 100%;
+    height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+    padding-top: 50px;
+}
+
+header {
+    width: 100%;
+    height: 90px;    
+    background-color: #F7F4ED;
+    
+   
+}
+
+
+.logo{
+    position: absolute;
+    width: 25%;
+    height: 90px;
+    
+}
+
+p{
+    position: absolute;
+    color: #823D6C;
+    margin-left: 40%;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+section{
+    width: 100%;
+    height: 650px;
+   
+    
+}
+
+.caja{
+    width: 100%;
+    height: 400px;
+    background: url(../img/ni.jpg) no-repeat;
+    background-size: 100% 500px;
+}
+
+.donaciones{
+    width: 40%;
+    height: 400px;
+    padding: 60px;
+    background-color:#823D6C ;
+    margin-left: 800px;
+    opacity: 0.9;
+    
+}
+
+p2{
+    color: #FFF;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.boton{
+width: 25%;
+border-radius: 4px;
+background:#FFDE00;
+margin-left: 30px;
+padding: 10px 0;
+color: rgb(7, 7, 7);
+font-size: 14px;
+text-transform: uppercase;
+cursor: pointer;
+font-size: 18px;
+font-family: 'Poppins', sans-serif;
+}
+
+.cajadon{
+    width: 63%;
+    padding: 8px;
+}
+
+input.cbox1{
+    height: 20px;
+    width: 20px;
+
+}
+
+label{
+    color: #FFF;
+    font-size: 20px;
+    padding-left: 8%;
+    
+}
+
+.boton2{
+    
+    width: 90%;
+    border-radius: 4px;
+    background:#FFDE00;
+    margin-left: 30px;
+    padding: 10px 0;
+    color: rgb(7, 7, 7);
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+ 
+}
+
+.caja3{
+    width: 100%;
+    height: 400px;
+    background: url(../img/bar.png) no-repeat;
+    background-size: 100% 255px;
+}
+
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color:black ;        
+}
+
+footer .up-icon {
+    float: right;
+    width: auto;
+    height: 100px;
+}
+
+
+
+footer p {
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+    
+}
+
+.icono{
+    position: absolute;
+    height: 80px;
+    padding: 15px;
+    margin-left: 140px;
+    margin-top: 10px;
+
+    
+
+
+}
+.icono2{
+    position:absolute;
+    height: 80px;
+    padding: 15px;
+    margin-left: 80px;
+    margin-top: 10px;
+        
+    
+
+
+}
+
+/*.caja2{
+    width: 100%;
+    height: 80px;
+    background-color: #823D6C;
+    
+}
+
+.caja2 p{
+    
+    color: #F7F4ED;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-right: 400px;
+
+
+}
+
+*/
+
+
+
+
+
+
+/*
+background: url(../img/ni.jpg) no-repeat;
+    background-size: 100% 600px;
